@@ -1,7 +1,7 @@
 </div>
 <div style="display: inline_block">
   <h1>React - TS - DIO Clone Project</h1>
-  <p><a href="https://www.dio.me/">DIO</a>'s React Developer course DIO Clone project, created in <a href="https://web.dio.me/track/orange-tech/">Orange Tech +</a> Bootcamp.</p>
+  <p><a href="https://www.dio.me/">DIO</a>'s Clone project, created in <a href="https://web.dio.me/track/orange-tech/">Orange Tech +</a> Bootcamp.</p>
   <h2>Technologies</h2>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
